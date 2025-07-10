@@ -16,8 +16,8 @@ return new class extends Migration
             $table->string('salary_net');
             $table->string('salary_brut');
             $table->string('registration_number');
-            $table->timestamp('start_shift');
-            $table->timestamp('end_shift');
+            $table->timestamp('start_shift')->nullable();
+            $table->timestamp('end_shift')->nullable();
             $table->string('role');
             $table->timestamps();
         });
