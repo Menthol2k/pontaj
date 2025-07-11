@@ -1,0 +1,21 @@
+{
+    "name": "Pontaje",
+    "short_name": "Pontaje",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#00ff88",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/images/apple-logo.png",
+            "type": "image/png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "/images/apple-logo.png",
+            "type": "image/png",
+            "sizes": "120x120"
+        }
+    ]
+}
