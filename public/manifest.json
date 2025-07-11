@@ -10,12 +10,12 @@
         {
             "src": "/images/apple-logo.png",
             "type": "image/png",
-            "sizes": "120x120"
+            "sizes": "192x192"
         },
         {
             "src": "/images/apple-logo.png",
             "type": "image/png",
-            "sizes": "120x120"
+            "sizes": "192x192"
         }
     ]
 }
